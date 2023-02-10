@@ -42,7 +42,7 @@ a {
 .mission {
     min-height: 700px;
     max-width: 1200px;
-    background-image: url("IMG/img-mission-background.jpg");
+    background-image: url(IMG/img-mission-background.jpg); 
     padding: 0px;
     margin: 0 auto;
     display: flex;
@@ -112,7 +112,7 @@ a {
 .locations {
     max-width: 1200px;
     min-height: 500px;
-    background-image: url(IMG/img-locations-background.jpg);
+    background-image: url(https://github.com/Vadimk90/tea-cozy/blob/ac17b6648f50a1af4176ff471e5a8bd5560db998/IMG/img-locations-background.jpg);
     padding: 0px;
     margin: 0 auto;
     display: flex;
